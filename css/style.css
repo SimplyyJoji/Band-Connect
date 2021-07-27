@@ -12,7 +12,7 @@ h3 {
 }
 
 #home-section {
-  background: url('/img/john-matychuk-gUK3lA3K7Yo-unsplash.jpg');
+  background: url('./img/john-matychuk-gUK3lA3K7Yo-unsplash.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
